@@ -1,7 +1,7 @@
 # mmWave Through Wall Sensing
 ## Overview
 ### Motivation
-We want to explore the possibility of using mmWave radar sensors to count how many people there are behind the wall.
+This project explores the possibility of using mmWave radar to count how the number of people behind a wall.
 
 ### Background
 The Frequency Modulated Continuous Wave (FMCW) radar is widely utilized for target ranging and velocity estimation. It operates by transmitting a continuous signal that undergoes linear frequency variation over time. This type of signal is called a chirp.
